@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Scorsi%20Prado-1D4ED8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/)
 [![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaris.com.br-0284C7?style=flat-square&logoColor=white&labelColor=0F172A)](https://www.angaris.com.br/)
-[![E-mail](https://img.shields.io/badge/E--mail-diegofelippe93%40gmail.com-1E40AF?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:diegofelippe93@gmail.com)
 [![Seguidores](https://img.shields.io/github/followers/Dprado93?style=flat-square&logo=github&logoColor=white&label=Seguidores&color=0284C7&labelColor=0F172A&cacheSeconds=300)](https://github.com/Dprado93)
 [![Visitas](https://komarev.com/ghpvc/?username=Dprado93&color=1d4ed8&style=flat-square&labelColor=0f172a&label=Visitas)](https://github.com/Dprado93)
 
