@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,50:0077B6,100:00B4D8&height=200&section=header&text=Diego%20Scorsi%20Prado&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=COO%20%40%20Angaris%20Tecnologia%20%C2%B7%20Desenvolvedor%20Full%20Stack%20%C2%B7%20Dados%20%26%20Banco%20de%20Dados&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Diego Scorsi Prado" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,50:0077B6,100:00B4D8&height=200&section=header&text=Diego%20Scorsi%20Prado&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=COO%20%40%20Angaris%20Tecnologia%20%C2%B7%20Desenvolvedor%20Full%20Stack%20%C2%B7%20Dados%20e%20Banco%20de%20Dados&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Diego Scorsi Prado" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Angaris;COO+%40+Angaris+Tecnologia;Desenvolvedor+Full+Stack+%C2%B7+ADS+FIAP;Dados+%26+Banco+de+Dados+%C2%B7+SQL+%C2%B7+Python)](https://www.angaris.com.br/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Angaris;COO+%40+Angaris+Tecnologia;Desenvolvedor+Full+Stack+%C2%B7+ADS+FIAP;Dados+e+Banco+de+Dados+%C2%B7+SQL+%C2%B7+Python)](https://www.angaris.com.br/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Scorsi%20Prado-0077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/)
 [![Email](https://img.shields.io/badge/E--mail-profissional-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:diegofelippe93@gmail.com)
