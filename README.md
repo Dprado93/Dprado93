@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,50:0077B6,100:00B4D8&height=200&section=header&text=Diego%20Scorsi%20Prado&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=COO%20%40%20Angaris%20Tecnologia%20%C2%B7%20Desenvolvedor%20Full%20Stack%20%C2%B7%20Dados%20e%20Banco%20de%20Dados&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Diego Scorsi Prado" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Angaris;COO+%40+Angaris+Tecnologia;Desenvolvedor+Full+Stack+%C2%B7+ADS+FIAP;Dados+e+Banco+de+Dados+%C2%B7+SQL+%C2%B7+Python)](https://www.angaris.com.br/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=Angaris;COO+%40+Angaris+Tecnologia;1%C2%BA+lugar+FIAP+NEXT+2026+%C2%B7+Smart+Health+Mirror;Desenvolvedor+Full+Stack+%C2%B7+Dados+e+Banco+de+Dados)](https://www.angaris.com.br/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Scorsi%20Prado-0077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/)
+[![Email](https://img.shields.io/badge/E--mail-profissional-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:diegofelippe93@gmail.com)
 [![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaris.com.br-0077B6?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.angaris.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/Dprado93?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=0077B6&labelColor=000000&cacheSeconds=300)](https://github.com/Dprado93)
 [![Profile views](https://komarev.com/ghpvc/?username=Dprado93&color=00b4d8&style=for-the-badge&labelColor=000000&label=VISUALIZA%C3%87%C3%95ES)](https://github.com/Dprado93)
@@ -19,16 +20,27 @@
 
 Antes da transição para a tecnologia, atuei por cerca de **10 anos como Policial Militar** no Estado de São Paulo — experiência que consolidou disciplina, liderança em campo, tomada de decisão sob alta pressão e rigor na análise e registro de dados operacionais. Hoje curso **Análise e Desenvolvimento de Sistemas na FIAP** (conclusão prevista para 2027), direcionando minha carreira para **Desenvolvimento Full Stack**, **Dados** e **Banco de Dados**.
 
-## Projetos selecionados
+## Projeto em destaque
+
+### 🏆 Smart Health Mirror (SHM) · 1º lugar na FIAP NEXT 2026
+
+![1º Lugar FIAP NEXT 2026](https://img.shields.io/badge/FIAP%20NEXT%202026-1%C2%BA%20LUGAR%20INICIA%C3%87%C3%83O%20CIENT%C3%8DFICA-F59E0B?style=for-the-badge&logoColor=white&labelColor=003B73)
+![Stack SHM](https://img.shields.io/badge/Stack-Python%20%C2%B7%20React%20%C2%B7%20Supabase%20%C2%B7%20ESP32%20(C%2B%2B)-0077B6?style=for-the-badge&labelColor=000000)
+
+> **Projeto vencedor da Iniciação Científica na FIAP NEXT 2026** — ponto de partida para a criação da healthtech **[Angaris Tecnologia](https://www.angaris.com.br/)**.
+
+Projeto de iniciação científica em equipe que combina sensores e software em um espelho interativo para monitoramento biométrico e bem-estar. Desenvolvido com **Python**, **React**, **Supabase** e **ESP32 (C++)**.
+
+- **O que entrega:** integração ponta a ponta entre hardware embarcado (sensores biométricos) e software em tempo real para monitoramento de saúde e bem-estar em uma interface interativa.
+- **Reconhecimento:** **1º colocado na Iniciação Científica — FIAP NEXT 2026**, validando o potencial técnico e de produto que deu origem à **Angaris Tecnologia**.
+- **Tecnologias:** `Python` · `React` · `Supabase` · `ESP32 (C++)` · `IoT` · `Banco de Dados`
+
+## Outros projetos
 
 | Projeto | O que resolve | Tecnologias |
 | --- | --- | --- |
 | [PradoStability](https://github.com/Dprado93/PradoStability) | Projeto Fintech FIAP: aplicação web para controle financeiro pessoal com registro de gastos, resumo mensal, categorias, histórico e acompanhamento de saldo. | HTML5 · CSS3 · Tailwind CSS |
 | [Angaris Tecnologia](https://www.angaris.com.br/) | Plataforma healthtech que integra hardware próprio (sensores e dispositivos clínicos IoT) e software clínico (prontuário, dashboards, dados e IA) de ponta a ponta. | Healthtech · Dados · IoT · Software Clínico |
-
-### Smart Health Mirror · 1º lugar na FIAP NEXT 2026
-
-Projeto de iniciação científica em equipe que combina sensores e software em um espelho interativo para monitoramento biométrico e bem-estar. Desenvolvido com Python, React, Supabase e ESP32 (C++).
 
 ## Engenharia e Dados
 
