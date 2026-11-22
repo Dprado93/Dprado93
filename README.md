@@ -1,105 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B73,50:0077B6,100:00B4D8&height=200&section=header&text=Diego%20Scorsi%20Prado&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=COO%20%40%20Angaris%20Tecnologia%20%C2%B7%20Desenvolvedor%20Full%20Stack%20%C2%B7%20Dados%20e%20Banco%20de%20Dados&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Diego Scorsi Prado" />
+[![Angaris Animated Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=1000&color=38BDF8&background=0B192C&center=true&vCenter=true&width=760&height=86&lines=ANGARIS;COO+%40+Angaris+Tecnologia;Smart+Health+Mirror+%C2%B7+1%C2%BA+FIAP+NEXT+2026;Full+Stack+%C2%B7+Dados+e+Banco+de+Dados)](https://www.angaris.com.br/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=Angaris;COO+%40+Angaris+Tecnologia;1%C2%BA+lugar+FIAP+NEXT+2026+%C2%B7+Smart+Health+Mirror;Desenvolvedor+Full+Stack+%C2%B7+Dados+e+Banco+de+Dados)](https://www.angaris.com.br/)
+<h1>Diego Scorsi Prado</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Scorsi%20Prado-0077B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/)
-[![Email](https://img.shields.io/badge/E--mail-profissional-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:diegofelippe93@gmail.com)
-[![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaris.com.br-0077B6?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.angaris.com.br/)
-[![GitHub followers](https://img.shields.io/github/followers/Dprado93?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=0077B6&labelColor=000000&cacheSeconds=300)](https://github.com/Dprado93)
-[![Profile views](https://komarev.com/ghpvc/?username=Dprado93&color=00b4d8&style=for-the-badge&labelColor=000000&label=VISUALIZA%C3%87%C3%95ES)](https://github.com/Dprado93)
+**COO na [Angaris Tecnologia](https://www.angaris.com.br/) · Desenvolvedor Full Stack · Dados e Banco de Dados · ADS na FIAP**
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B73,50:0077B6,100:00B4D8&height=2&section=header" width="100%" />
-
-## Liderança e trajetória
-
-- **[Angaris Tecnologia](https://www.angaris.com.br/)** — Atuo como **COO** na healthtech nascida na FIAP com a missão de *devolver tempo a quem cuida*, integrando hardware clínico e software de ponta a ponta (*do sensor ao painel*). Apoio a gestão operacional, a estruturação de processos e a evolução estratégica das soluções.
-
-Antes da transição para a tecnologia, atuei por cerca de **10 anos como Policial Militar** no Estado de São Paulo — experiência que consolidou disciplina, liderança em campo, tomada de decisão sob alta pressão e rigor na análise e registro de dados operacionais. Hoje curso **Análise e Desenvolvimento de Sistemas na FIAP** (conclusão prevista para 2027), direcionando minha carreira para **Desenvolvimento Full Stack**, **Dados** e **Banco de Dados**.
-
-## Projeto em destaque
-
-### 🏆 Smart Health Mirror (SHM) · 1º lugar na FIAP NEXT 2026
-
-![1º Lugar FIAP NEXT 2026](https://img.shields.io/badge/FIAP%20NEXT%202026-1%C2%BA%20LUGAR%20INICIA%C3%87%C3%83O%20CIENT%C3%8DFICA-F59E0B?style=for-the-badge&logoColor=white&labelColor=003B73)
-![Stack SHM](https://img.shields.io/badge/Stack-Python%20%C2%B7%20React%20%C2%B7%20Supabase%20%C2%B7%20ESP32%20(C%2B%2B)-0077B6?style=for-the-badge&labelColor=000000)
-
-> **Projeto vencedor da Iniciação Científica na FIAP NEXT 2026** — ponto de partida para a criação da healthtech **[Angaris Tecnologia](https://www.angaris.com.br/)**.
-
-Projeto de iniciação científica em equipe que combina sensores e software em um espelho interativo para monitoramento biométrico e bem-estar. Desenvolvido com **Python**, **React**, **Supabase** e **ESP32 (C++)**.
-
-- **O que entrega:** integração ponta a ponta entre hardware embarcado (sensores biométricos) e software em tempo real para monitoramento de saúde e bem-estar em uma interface interativa.
-- **Reconhecimento:** **1º colocado na Iniciação Científica — FIAP NEXT 2026**, validando o potencial técnico e de produto que deu origem à **Angaris Tecnologia**.
-- **Tecnologias:** `Python` · `React` · `Supabase` · `ESP32 (C++)` · `IoT` · `Banco de Dados`
-
-## Outros projetos
-
-| Projeto | O que resolve | Tecnologias |
-| --- | --- | --- |
-| [PradoStability](https://github.com/Dprado93/PradoStability) | Projeto Fintech FIAP: aplicação web para controle financeiro pessoal com registro de gastos, resumo mensal, categorias, histórico e acompanhamento de saldo. | HTML5 · CSS3 · Tailwind CSS |
-| [Angaris Tecnologia](https://www.angaris.com.br/) | Plataforma healthtech que integra hardware próprio (sensores e dispositivos clínicos IoT) e software clínico (prontuário, dashboards, dados e IA) de ponta a ponta. | Healthtech · Dados · IoT · Software Clínico |
-
-## Engenharia e Dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,html,css,tailwind,react,vite,firebase&theme=dark" alt="Linguagens e front-end" /><br/>
-<img src="https://skillicons.dev/icons?i=sqlite,supabase,linux,git,github,figma,vscode&theme=dark" alt="Banco de dados e ferramentas" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Scorsi%20Prado-1D4ED8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/)
+[![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaris.com.br-0284C7?style=flat-square&logoColor=white&labelColor=0F172A)](https://www.angaris.com.br/)
+[![E-mail](https://img.shields.io/badge/E--mail-diegofelippe93%40gmail.com-1E40AF?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:diegofelippe93@gmail.com)
+[![Seguidores](https://img.shields.io/github/followers/Dprado93?style=flat-square&logo=github&logoColor=white&label=Seguidores&color=0284C7&labelColor=0F172A&cacheSeconds=300)](https://github.com/Dprado93)
+[![Visitas](https://komarev.com/ghpvc/?username=Dprado93&color=1d4ed8&style=flat-square&labelColor=0f172a&label=Visitas)](https://github.com/Dprado93)
 
 </div>
 
-- **Dados e Banco de Dados** — Modelagem lógica e física, SQL/DDL, Oracle Database (Oracle SQL Developer Data Modeler), Microsoft SQL Server 2022, SQLite, Supabase e Python para Dados.
-- **Desenvolvimento Full Stack & Front-end** — HTML5, CSS3, Tailwind CSS, React, Vite, Firebase, prototipação no Figma e interfaces responsivas.
-- **Engenharia de Software** — Análise de requisitos, modelagem UML, User Stories, critérios de aceitação e algoritmos.
-- **Infraestrutura e Ferramentas** — Administração Linux, fundamentos e segurança em Computação em Nuvem, Git, GitHub e VS Code.
+---
 
-## Atividade no GitHub
+### Perfil Executivo e Transição de Carreira
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Trajetória e Foco Técnico</h4>
+      <p>Após cerca de <strong>10 anos como Policial Militar</strong> no Estado de São Paulo — período que consolidou disciplina, liderança em campo, tomada de decisão sob pressão e rigor em registros operacionais — conduzo minha transição para a área de tecnologia.</p>
+      <p>Atualmente curso <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong> (conclusão em 2027), com foco em <strong>Desenvolvimento Full Stack</strong>, <strong>Dados</strong> e <strong>Banco de Dados</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Liderança na Angaris Tecnologia</h4>
+      <p>Atuo como <strong>COO na <a href="https://www.angaris.com.br/">Angaris Tecnologia</a></strong>, healthtech nascida dentro da FIAP com a missão de <em>devolver tempo a quem cuida</em>.</p>
+      <p>Apoio a gestão operacional, organização de processos e evolução estratégica de soluções integradas que conectam <strong>hardware clínico próprio e software</strong> de ponta a ponta (<em>do sensor ao painel</em>).</p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dprado93&show_icons=true&hide_border=true&bg_color=000000&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF&ring_color=00B4D8&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dprado93&layout=compact&hide_border=true&bg_color=000000&title_color=00B4D8&text_color=FFFFFF&langs_count=8" height="165" alt="Top languages" />
+---
 
-<img src="https://streak-stats.demolab.com?user=Dprado93&hide_border=true&background=000000&ring=00B4D8&fire=0077B6&currStreakNum=FFFFFF&currStreakLabel=00B4D8&sideNums=FFFFFF&sideLabels=00B4D8&dates=AAAAAA&stroke=1B3B6F" width="70%" alt="GitHub streak" />
+### 🏆 Destaque Principal · Smart Health Mirror (SHM)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dprado93&bg_color=000000&color=FFFFFF&line=00B4D8&point=0077B6&area=true&area_color=0077B6&hide_border=true" width="98%" alt="Contribution graph" />
+![1º Lugar FIAP NEXT 2026](https://img.shields.io/badge/FIAP%20NEXT%202026-1%C2%BA%20LUGAR%20INICIA%C3%87%C3%83O%20CIENT%C3%8DFICA-D97706?style=flat-square&labelColor=0B192C)
+![Origem Angaris](https://img.shields.io/badge/Origem%20da-Angaris%20Tecnologia-0284C7?style=flat-square&labelColor=0B192C)
 
-</div>
+> [!NOTE]
+> **Smart Health Mirror (SHM) — 1º lugar na Iniciação Científica (FIAP NEXT 2026)**
+>
+> Projeto de iniciação científica em equipe que combina sensores e software em um espelho interativo para monitoramento biométrico e bem-estar. Desenvolvido com **Python**, **React**, **Supabase** e **ESP32 (C++)**.
 
-## Formação complementar
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>⚙️ Arquitetura</strong><br/>
+      Hardware embarcado com sensores biométricos integrado a software em tempo real em um espelho interativo.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🥇 Impacto</strong><br/>
+      1º colocado na FIAP NEXT 2026, validando a base tecnológica que deu origem à <strong>Angaris Tecnologia</strong>.
+    </td>
+    <td width="34%" valign="top">
+      <strong>🧩 Tecnologias</strong><br/>
+      <code>Python</code> · <code>React</code> · <code>Supabase</code> · <code>ESP32 (C++)</code> · <code>IoT</code>
+    </td>
+  </tr>
+</table>
 
-Graduação em **Análise e Desenvolvimento de Sistemas (FIAP)** complementada por certificações em bancos de dados (Oracle, SQL Server, SQLite e SQL), Python para Dados, Linux e Computação em Nuvem pela **FIAP**, **Alura** e **Hashtag Treinamentos**.
+---
 
-### Certificados FIAP
+### 💻 Projetos e Ecossistema
 
-| Curso | Data | Certificado |
-| --- | --- | --- |
-| Qualificação Profissional em Análise de Sistemas e Prototipação Web | ago/2026 | [Validar na FIAP](https://www.fiap.com.br/consultadocumento) · código `4F7E0F89` |
-| Algoritmos: Aprenda a programar | jun/2026 | [Ver certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=9f3e76698cf03cd15972b4b255281121&action=view) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Dprado93/PradoStability">PradoStability</a></h4>
+      <p>Projeto Fintech desenvolvido na FIAP: aplicação web de controle financeiro pessoal com registro de gastos, resumo mensal, categorização, histórico e painel de saldo.</p>
+      <p><code>HTML5</code> · <code>CSS3</code> · <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://www.angaris.com.br/">Angaris Tecnologia</a></h4>
+      <p>Ecossistema healthtech que integra sensores e dispositivos clínicos IoT a plataformas de prontuário, dashboards, dados e IA para a linha de frente da saúde.</p>
+      <p><code>Healthtech</code> · <code>Dados</code> · <code>IoT</code> · <code>Software Clínico</code></p>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary>Certificados Alura & Hashtag Treinamentos</summary>
+---
 
-| Curso | Instituição | Data | Certificado |
-| --- | --- | --- | --- |
-| SQL Impressionador (Cursando) | Hashtag Treinamentos | jul/2026 | Em andamento |
+### 🗄️ Stack Técnica
+
+| Frente | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Dados e Banco de Dados** | ![Oracle](https://img.shields.io/badge/Oracle_Database-1E3A8A?style=flat-square&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server_2022-1D4ED8?style=flat-square&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-0369A1?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python_para_Dados-1E40AF?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_e_Modelagem-0284C7?style=flat-square&logoColor=white) |
+| **Full Stack e Interfaces** | ![HTML5](https://img.shields.io/badge/HTML5-1E3A8A?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0284C7?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8) ![Vite](https://img.shields.io/badge/Vite-1E40AF?style=flat-square&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-0369A1?style=flat-square&logo=firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=38BDF8) |
+| **Infraestrutura e Engenharia** | ![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=38BDF8) ![Cloud](https://img.shields.io/badge/Computa%C3%A7%C3%A3o_em_Nuvem-1E3A8A?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/Git-1D4ED8?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white) ![UML](https://img.shields.io/badge/UML_e_Requisitos-0284C7?style=flat-square&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32_IoT-0369A1?style=flat-square&logo=espressif&logoColor=white) |
+
+---
+
+### 🎓 Formação e Certificações por Trilha
+
+- **Graduação:** Análise e Desenvolvimento de Sistemas — **FIAP** *(2026 – 2027)*
+
+<details open>
+<summary><strong>🗄️ Banco de Dados, SQL e Python para Dados (6)</strong></summary>
+
+| Formação / Certificado | Instituição | Data | Validação |
+| :--- | :--- | :--- | :--- |
+| SQL Impressionador *(Cursando)* | Hashtag Treinamentos | jul/2026 | Em andamento |
 | Administração do Oracle Database: Criação e gerenciamento do banco | Alura | jul/2026 | Concluído |
 | Microsoft SQL Server 2022: Administrando o banco de dados | Alura | jul/2026 | Concluído |
 | Administração do Oracle Database: Segurança e otimização do banco | Alura | abr/2026 | Concluído |
-| Computação em Nuvem: fundamentos, modelos e segurança | Alura | abr/2026 | [Ver certificado](https://cursos.alura.com.br/certificate/22dc53d1-1d59-4410-8ed1-a8c0c5b77d2e) |
-| SQLite Online: Conhecendo instruções SQL | Alura | abr/2026 | [Ver certificado](https://cursos.alura.com.br/certificate/8d3bca4e-9c43-45c7-9a5c-6e776d850638) |
-| Python para Dados: trabalhando com funções, estruturas de dados e exceções | Alura | abr/2026 | [Ver certificado](https://cursos.alura.com.br/certificate/1680bf3c-dd3c-4f09-9390-8c638f1960f9) |
+| SQLite Online: Conhecendo instruções SQL | Alura | abr/2026 | [Certificado](https://cursos.alura.com.br/certificate/8d3bca4e-9c43-45c7-9a5c-6e776d850638) |
+| Python para Dados: funções, estruturas de dados e exceções | Alura | abr/2026 | [Certificado](https://cursos.alura.com.br/certificate/1680bf3c-dd3c-4f09-9390-8c638f1960f9) |
+
+</details>
+
+<details>
+<summary><strong>💻 Engenharia de Sistemas e Programação (2)</strong></summary>
+
+| Formação / Certificado | Instituição | Data | Validação |
+| :--- | :--- | :--- | :--- |
+| Qualificação Profissional em Análise de Sistemas e Prototipação Web | FIAP | ago/2026 | [Validar](https://www.fiap.com.br/consultadocumento) · código `4F7E0F89` |
+| Algoritmos: Aprenda a programar | FIAP | jun/2026 | [Certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=9f3e76698cf03cd15972b4b255281121&action=view) |
+
+</details>
+
+<details>
+<summary><strong>☁️ Linux e Computação em Nuvem (4)</strong></summary>
+
+| Formação / Certificado | Instituição | Data | Validação |
+| :--- | :--- | :--- | :--- |
+| Computação em Nuvem: fundamentos, modelos e segurança | Alura | abr/2026 | [Certificado](https://cursos.alura.com.br/certificate/22dc53d1-1d59-4410-8ed1-a8c0c5b77d2e) |
 | Sistema Operacional Linux: Fundamentos e administração prática | Alura | mar/2026 | Concluído |
 | Linux Onboarding: Localizando arquivos e conteúdos | Alura | mar/2026 | Concluído |
 | Começando em Linux | Alura | mar/2026 | Concluído |
 
 </details>
 
-## Contato
+---
 
-[Angaris Tecnologia](https://www.angaris.com.br/) · [LinkedIn](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/) · [E-mail profissional](mailto:diegofelippe93@gmail.com) · [Repositórios no GitHub](https://github.com/Dprado93?tab=repositories)
+### 📊 Métricas no GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:003B73&height=120&section=footer" width="100%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dprado93&show_icons=true&bg_color=0B192C&border_color=1E3A5F&border_radius=8&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=2563EB" height="165" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dprado93&layout=compact&bg_color=0B192C&border_color=1E3A5F&border_radius=8&title_color=38BDF8&text_color=E2E8F0&langs_count=6" height="165" alt="Linguagens mais usadas" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Diego Scorsi Prado** · Osasco/SP · COO @ Angaris Tecnologia
+
+[Angaris Tecnologia](https://www.angaris.com.br/) · [LinkedIn](https://www.linkedin.com/in/diego-scorsi-prado-47a1533b0/) · [diegofelippe93@gmail.com](mailto:diegofelippe93@gmail.com) · [Repositórios](https://github.com/Dprado93?tab=repositories)
+
+</div>
